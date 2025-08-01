@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Electronics Lab Inventory Management System (LIMS)
 
 A comprehensive web-based inventory management system designed specifically for electronics R&D and manufacturing laboratories. This system helps manage electronic components efficiently with real-time tracking, automated notifications, and detailed analytics.
@@ -354,3 +355,7 @@ This project is developed as a case study demonstration. Please refer to the spe
 **Developed for Electronics Lab Inventory Management System Case Study**
 
 *This system demonstrates full-stack development capabilities including React/TypeScript frontend, responsive design, data visualization, and comprehensive inventory management features.*
+=======
+# LIMS
+Electronics Lab Inventory  Management System 
+>>>>>>> 43358c23968ae501dd29b438ca60d12a09b2ec74
